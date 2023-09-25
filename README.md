@@ -12,7 +12,7 @@ Steals notes in a less intrusive way (the oldest press, rather than round-robin)
 
 vs. `RKPOLYMUXALLOCMODE_FIRSTFREE`:
 
-Can steal notes, which avoids glitches/missed notes when you don't quite release a key fast enough.
+Can steal notes.
 
 vs. both:
 
