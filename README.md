@@ -4,6 +4,8 @@ RK-002 PolyMUX firmware with better polyphony.
 
 Muxes to the lowest available channel (non round-robin), or evicts the oldest keypress.
 
+---
+
 vs. `RKPOLYMUXALLOCMODE_ROUNDROBIN`:
 
 Steals notes in a less intrusive way (the oldest press, rather than round-robin).
