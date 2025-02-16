@@ -16,7 +16,7 @@ Can steal notes.
 
 vs. both:
 
-Only uses the N lowest channels necessary, so you can record a monophonic track, or in limited polyphony, without reconfiguring anything. Just press fewer keys at once.
+Only uses the N lowest channels necessary, so you can record a monophonic track, or in limited polyphony, by pressing fewer keys at once.
 
 ## Flashing
 
